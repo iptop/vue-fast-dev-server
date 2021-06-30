@@ -2,6 +2,7 @@
 
 > 10倍缩短您的vue dev server启动时间
 
+![avatar](https://github.com/iptop/vue-fast-dev-server-demo/blob/master/src/assets/demo.gif?raw=true)
 ## 安装
 
 ``` bash
